@@ -1,0 +1,23 @@
+# Ren'Py SDK and build artifacts
+_sdk/
+dist/
+dist_web/
+dist_web.zip
+*.rpyc
+*.rpymc
+**/__pycache__/
+
+# Local captures / logs / saves
+shots/
+游戏效果*.mp4
+《*.mp4
+log.txt
+traceback.txt
+下次打开.*
+game/saves/
+game/cache/
+
+# Local-only raw assets and preview archive
+风格/
+音效/
+docs/ui_preview/
